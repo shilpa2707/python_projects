@@ -5,4 +5,4 @@ class Schedule:
         self.time = time
 
     def get_schdule(self):
-        return Schedule(date,time)
+        return Schedule(self.date,self.time)
